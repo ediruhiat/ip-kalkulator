@@ -1,4 +1,4 @@
-import { useContext, useEffect, useState } from 'react'
+import { useContext } from 'react'
 import { GpaContext } from '../../contexts/gpa/GpaContext'
 
 import Form from '../form'

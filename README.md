@@ -2,7 +2,7 @@
 Aplikasi sederhana untuk menghitung Indeks Prestasi berdasarkan input nilai A, A+/AB, B+/BC, C, D, E.
 
 Demo page:
-https://ip-kalkulator.vercel.app
+https://ip-kalkulator-81n6m1nap-edrhyt.vercel.app/
 
 # Getting Started with Create React App
 
