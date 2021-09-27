@@ -1,0 +1,21 @@
+button {
+	&.btn {
+		border: none;
+		padding: .5rem 1.5rem;
+		background-color: royalblue;
+		color: white;
+		font-weight: 500;
+		letter-spacing: .04rem;
+		border-radius: 4rem;
+		margin-bottom: .75rem;
+		box-shadow: 0 3px 10px rgba($color: #000000, $alpha: .3);
+		cursor: pointer;
+		transition: all .2s ease;
+
+		&:hover {
+			background-color: rgb(79, 116, 228);
+			box-shadow: 0 1px 4px rgba($color: #000000, $alpha: .4);
+			transform: translateY(-.15rem);
+		}
+	}
+}

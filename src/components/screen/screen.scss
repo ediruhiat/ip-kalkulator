@@ -1,0 +1,21 @@
+.screen-container {
+	padding: 1.25rem .25rem;
+	display: flex;
+	flex-direction: column;
+	row-gap: .5rem;
+	align-items: flex-end;
+	color: #222;
+
+	div {
+		text-align: right;
+	}
+
+	h2 {
+		font-size: 14pt;
+		font-weight: 400;
+	}
+
+	span {
+		font-weight: 600;
+	}
+}
