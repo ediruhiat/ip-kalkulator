@@ -1,3 +1,6 @@
+# Kalkulator IP
+Aplikasi sederhana untuk menghitung Indeks Prestasi berdasarkan input nilai A, A+/AB, B+/BC, C, D, E.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
